@@ -1,4 +1,6 @@
-# Welcome to your Lovable project
+# Welcome to My vibe coding project
+
+## **By Wasiq Ali**
 
 ## Project info
 
@@ -63,6 +65,16 @@ This project is built with:
 ## How can I deploy this project?
 
 Simply open [Lovable](https://lovable.dev/projects/2dc9153c-aec9-4167-bd01-1d4efe5c00a0) and click on Share -> Publish.
+
+For more:
+📩 Contact now to discuss your project!
+For more visit my freelancing profile!
+guru click here 👉[guru](https://www.guru.com/freelancers/wasiq-ali-yasir)
+🌐 Explore More Tools for AI, Data Science & Finance Work:
+👉 [fiverr](https://www.fiverr.com/s/7Y3wNBx)
+GitHub using this link :- https://github.com/WasiqAli275
+Kaggle link 👉[Kaggle](https://www.kaggle.com/wasiqaliyasir)
+- **Must see my kaggle profile i can upload Data set, notebook and code in it**
 
 ## Can I connect a custom domain to my Lovable project?
 
