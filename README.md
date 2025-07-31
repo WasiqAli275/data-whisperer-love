@@ -68,12 +68,19 @@ Simply open [Lovable](https://lovable.dev/projects/2dc9153c-aec9-4167-bd01-1d4ef
 
 For more:
 📩 Contact now to discuss your project!
+
 For more visit my freelancing profile!
+
 guru click here 👉[guru](https://www.guru.com/freelancers/wasiq-ali-yasir)
+
 🌐 Explore More Tools for AI, Data Science & Finance Work:
+
 👉 [fiverr](https://www.fiverr.com/s/7Y3wNBx)
+
 GitHub using this link :- https://github.com/WasiqAli275
+
 Kaggle link 👉[Kaggle](https://www.kaggle.com/wasiqaliyasir)
+
 - **Must see my kaggle profile i can upload Data set, notebook and code in it**
 
 ## Can I connect a custom domain to my Lovable project?
